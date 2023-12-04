@@ -1,0 +1,311 @@
+[
+  {
+    "title": "Cox's Bazar",
+    "imgTitle": "https://i.ibb.co/5BQ2dmd/Rectangle-1.png",
+    "details": "Cox's Bazar, located in southeastern Bangladesh, boasts one of the world's longest natural sea beaches spanning approximately 120 kilometers along the Bay of Bengal, attracting tourists with its golden sands and diverse attractions such as Himchari National Park and Inani Beach.",
+    "accommodations": [
+      {
+        "rating": 4.8,
+        "imgHotel": "https://i.ibb.co/x5XThGJ/images-q-tbn-ANd9-Gc-Ryvjf-Uo94-I6-V8n-JX4cv-Yy-G4cua9b-TAHXGZfg-usqp-CAU.jpg",
+        "hotel_name": "Bashati Beach Bay",
+        "details-pakage": [
+          {
+            "name": "Couple Sea view",
+            "baths": 1,
+            "bed": 1,
+            "price": 2500,
+            "img": "https://i.ibb.co/MGdd7W9/couple.jpg"
+          },
+          {
+            "name": "Family package",
+            "baths": 2,
+            "bed": 3,
+            "price": 5000,
+            "img": "https://i.ibb.co/nrWQQq5/family.jpg"
+          },
+          {
+            "name": "Friends package",
+            "baths": 2,
+            "bed": 3,
+            "price": 6000,
+            "img": "https://i.ibb.co/6yDCBWJ/friends.jpg"
+          }
+        ]
+      },
+      {
+        "price": 5000,
+        "rating": 4.9,
+        "imgHotel": "https://i.ibb.co/nBTQXmk/hotel-royal-tulip-sea-pearl-beach-resort-coxs-bazar-005.jpg",
+        "hotel_name": "Sea-Pearl",
+        "details-pakage": [
+            {
+              "name": "Couple Sea view",
+              "baths": 1,
+              "bed": 1,
+              "price": 2500,
+              "img": "https://i.ibb.co/MGdd7W9/couple.jpg"
+            },
+            {
+              "name": "Family package",
+              "baths": 2,
+              "bed": 3,
+              "price": 5000,
+              "img": "https://i.ibb.co/nrWQQq5/family.jpg"
+            },
+            {
+              "name": "Friends package",
+              "baths": 2,
+              "bed": 3,
+              "price": 6000,
+              "img": "https://i.ibb.co/6yDCBWJ/friends.jpg"
+            }
+          ]
+      },
+      {
+        "price": "3500",
+        "rating": 4.7,
+        "imgHotel": "https://i.ibb.co/kXskghw/201908131536186082-2f41b95c905311e9a65b0242ac110002.jpg",
+        "hotel_name": "Private Pool Villa",
+        "details-pakage": [
+            {
+              "name": "Couple Sea view",
+              "baths": 1,
+              "bed": 1,
+              "price": 2500,
+              "img": "https://i.ibb.co/MGdd7W9/couple.jpg"
+            },
+            {
+              "name": "Family package",
+              "baths": 2,
+              "bed": 3,
+              "price": 5000,
+              "img": "https://i.ibb.co/nrWQQq5/family.jpg"
+            },
+            {
+              "name": "Friends package",
+              "baths": 2,
+              "bed": 3,
+              "price": 6000,
+              "img": "https://i.ibb.co/6yDCBWJ/friends.jpg"
+            }
+          ]
+      },
+      {
+        "price": 12000,
+        "rating": 5.0,
+        "imgHotel": "https://example.com/executive-suite.jpg",
+        "hotel_name": "Executive Luxury Suite",
+        "details-pakage": {
+          "beds": "California King size bed",
+          "baths": "Spacious modern bathroom with city views"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Saint martin",
+    "imgTitle": "https://i.ibb.co/59B2vGg/Getty-Images-1438954277-HEADER-Saint-Martin-Michelin.jpg",
+    "details": "Cox's Bazar, located in southeastern Bangladesh, boasts one of the world's longest natural sea beaches spanning approximately 120 kilometers along the Bay of Bengal, attracting tourists with its golden sands and diverse attractions such as Himchari National Park and Inani Beach.",
+    "accommodations": [
+      {
+        "rating": 4.8,
+        "imgHotel": "https://i.ibb.co/x5XThGJ/images-q-tbn-ANd9-Gc-Ryvjf-Uo94-I6-V8n-JX4cv-Yy-G4cua9b-TAHXGZfg-usqp-CAU.jpg",
+        "hotel_name": "Chera resort",
+        "details-pakage": [
+          {
+            "name": "Couple Sea view",
+            "baths": 1,
+            "bed": 1,
+            "price": 2500,
+            "img": "https://i.ibb.co/MGdd7W9/couple.jpg"
+          },
+          {
+            "name": "Family package",
+            "baths": 2,
+            "bed": 3,
+            "price": 5000,
+            "img": "https://i.ibb.co/nrWQQq5/family.jpg"
+          },
+          {
+            "name": "Friends package",
+            "baths": 2,
+            "bed": 3,
+            "price": 6000,
+            "img": "https://i.ibb.co/6yDCBWJ/friends.jpg"
+          }
+        ]
+      },
+      {
+        "price": 5000,
+        "rating": 4.9,
+        "imgHotel": "https://i.ibb.co/nBTQXmk/hotel-royal-tulip-sea-pearl-beach-resort-coxs-bazar-005.jpg",
+        "hotel_name": "Sea-Pearl",
+        "details-pakage": [
+            {
+              "name": "Couple Sea view",
+              "baths": 1,
+              "bed": 1,
+              "price": 2500,
+              "img": "https://i.ibb.co/MGdd7W9/couple.jpg"
+            },
+            {
+              "name": "Family package",
+              "baths": 2,
+              "bed": 3,
+              "price": 5000,
+              "img": "https://i.ibb.co/nrWQQq5/family.jpg"
+            },
+            {
+              "name": "Friends package",
+              "baths": 2,
+              "bed": 3,
+              "price": 6000,
+              "img": "https://i.ibb.co/6yDCBWJ/friends.jpg"
+            }
+          ]
+      },
+      {
+        "price": "3500",
+        "rating": 4.7,
+        "imgHotel": "https://i.ibb.co/kXskghw/201908131536186082-2f41b95c905311e9a65b0242ac110002.jpg",
+        "hotel_name": "Private Pool Villa",
+        "details-pakage": [
+            {
+              "name": "Couple Sea view",
+              "baths": 1,
+              "bed": 1,
+              "price": 2500,
+              "img": "https://i.ibb.co/MGdd7W9/couple.jpg"
+            },
+            {
+              "name": "Family package",
+              "baths": 2,
+              "bed": 3,
+              "price": 5000,
+              "img": "https://i.ibb.co/nrWQQq5/family.jpg"
+            },
+            {
+              "name": "Friends package",
+              "baths": 2,
+              "bed": 3,
+              "price": 6000,
+              "img": "https://i.ibb.co/6yDCBWJ/friends.jpg"
+            }
+          ]
+      },
+      {
+        "price": 12000,
+        "rating": 5.0,
+        "imgHotel": "https://example.com/executive-suite.jpg",
+        "hotel_name": "Executive Luxury Suite",
+        "details-pakage": {
+          "beds": "California King size bed",
+          "baths": "Spacious modern bathroom with city views"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Shajek",
+    "imgTitle": "https://i.ibb.co/hFnVJWF/111120201137296605fac2f69b00e2.jpg",
+    "details": "Shajek, located in southeastern Bangladesh, boasts one of the world's longest natural hill spanning approximately 120 kilometers along the Bay of Bengal, attracting tourists with its golden sands and diverse attractions such as Himchari National Park and Inani Hill.",
+    "accommodations": [
+      {
+        "rating": 4.8,
+        "imgHotel": "https://i.ibb.co/x5XThGJ/images-q-tbn-ANd9-Gc-Ryvjf-Uo94-I6-V8n-JX4cv-Yy-G4cua9b-TAHXGZfg-usqp-CAU.jpg",
+        "hotel_name": "Bashati Beach Bay",
+        "details-pakage": [
+          {
+            "name": "Couple Sea view",
+            "baths": 1,
+            "bed": 1,
+            "price": 2500,
+            "img": "https://i.ibb.co/hsJJ7D4/resort-booking-sajek.jpg"
+          },
+          {
+            "name": "Family package",
+            "baths": 2,
+            "bed": 3,
+            "price": 5000,
+            "img": "https://i.ibb.co/nrWQQq5/family.jpg"
+          },
+          {
+            "name": "Friends package",
+            "baths": 2,
+            "bed": 3,
+            "price": 6000,
+            "img": "https://i.ibb.co/6yDCBWJ/friends.jpg"
+          }
+        ]
+      },
+      {
+        "price": 5000,
+        "rating": 4.9,
+        "imgHotel": "https://i.ibb.co/nBTQXmk/hotel-royal-tulip-sea-pearl-beach-resort-coxs-bazar-005.jpg",
+        "hotel_name": "Sea-Pearl",
+        "details-pakage": [
+            {
+              "name": "Couple Sea view",
+              "baths": 1,
+              "bed": 1,
+              "price": 2500,
+              "img": "https://i.ibb.co/MGdd7W9/couple.jpg"
+            },
+            {
+              "name": "Family package",
+              "baths": 2,
+              "bed": 3,
+              "price": 5000,
+              "img": "https://i.ibb.co/nrWQQq5/family.jpg"
+            },
+            {
+              "name": "Friends package",
+              "baths": 2,
+              "bed": 3,
+              "price": 6000,
+              "img": "https://i.ibb.co/6yDCBWJ/friends.jpg"
+            }
+          ]
+      },
+      {
+        "price": "3500",
+        "rating": 4.7,
+        "imgHotel": "https://i.ibb.co/kXskghw/201908131536186082-2f41b95c905311e9a65b0242ac110002.jpg",
+        "hotel_name": "Private Pool Villa",
+        "details-pakage": [
+            {
+              "name": "Couple Sea view",
+              "baths": 1,
+              "bed": 1,
+              "price": 2500,
+              "img": "https://i.ibb.co/MGdd7W9/couple.jpg"
+            },
+            {
+              "name": "Family package",
+              "baths": 2,
+              "bed": 3,
+              "price": 5000,
+              "img": "https://i.ibb.co/nrWQQq5/family.jpg"
+            },
+            {
+              "name": "Friends package",
+              "baths": 2,
+              "bed": 3,
+              "price": 6000,
+              "img": "https://i.ibb.co/6yDCBWJ/friends.jpg"
+            }
+          ]
+      },
+      {
+        "price": 12000,
+        "rating": 5.0,
+        "imgHotel": "https://example.com/executive-suite.jpg",
+        "hotel_name": "Executive Luxury Suite",
+        "details-pakage": {
+          "beds": "California King size bed",
+          "baths": "Spacious modern bathroom with city views"
+        }
+      }
+    ]
+  }
+]
